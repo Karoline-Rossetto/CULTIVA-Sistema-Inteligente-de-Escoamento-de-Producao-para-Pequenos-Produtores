@@ -5,8 +5,8 @@ Plataforma B2B que conecta pequenos produtores rurais ao varejo por meio de busc
 ## Módulos
 
 - Serviços Externos:
-  - [Gateway de Pagamento Mockado](https://github.com/nahel-argama/PI_III_2026_TB_BAD_THREE_PI/tree/main/external/payment-gateway)
-  - [Scrapper de preços da CONAB](https://github.com/nahel-argama/PI_III_2026_TB_BAD_THREE_PI/tree/main/external/price-scrapper)
+  - [Gateway de Pagamento Mockado](https://github.com/Karoline-Rossetto/CULTIVA-Sistema-Inteligente-de-Escoamento-de-Producao-para-Pequenos-Produtores/tree/main/external/payment-gateway)
+  - [Scrapper de preços da CONAB](https://github.com/Karoline-Rossetto/CULTIVA-Sistema-Inteligente-de-Escoamento-de-Producao-para-Pequenos-Produtores/tree/main/external/price-scrapper)
 
 ## Tecnologias
 
